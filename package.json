@@ -1,0 +1,10 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "to learn how to use workflows",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Melissa Arce"
+}
